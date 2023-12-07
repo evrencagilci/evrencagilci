@@ -1,4 +1,4 @@
-![MasterHead](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)
 
 <h1 align="center">Hi 👋, I'm Evren</h1>
 <h3 align="center">I'm an computer engineering student at Hacettepe University.</h3>
