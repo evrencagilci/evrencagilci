@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)
 
 <h1 align="center">Hi 👋, I'm Evren</h1>
-<h3 align="center">I'm an computer engineering student at Hacettepe University.</h3>
+<h3 align="center">I'm a computer engineering student at Hacettepe University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evrencagilci&label=Profile%20views&color=0e75b6&style=flat" alt="evrencagilci" /> </p>
